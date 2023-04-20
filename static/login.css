@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(200, 235, 188);
+}
+
+.jumbotron {
+    color: rgb(200, 235, 188);
+    background-color: #1E272E;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+    background-image: url('../static/logo.png');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: contain;
+  }
